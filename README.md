@@ -32,6 +32,10 @@ All settings are customizable in `config.yml`:
 Found a bug or have a suggestion?  
 Open an issue on GitHub.
 
+## Donate (optional)
+If you enjoy my work and want to support development:  
+[Donate via PayPal](https://paypal.me/Marbzy) 💖  
+
 
 Developed by **Marbzy**
 
