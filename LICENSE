@@ -1,10 +1,21 @@
-# DangerXPFarm - All Rights Reserved (ARR)
+## License
+This project is licensed under **All Rights Reserved (ARR)**.  
+- You are free to **use this plugin on your server**.  
+- **Redistribution, resale, or modification without permission is not allowed**.  
+- The **source code is available upon request** for developers.  
+- To request access to the source, please open a GitHub Issue titled `Source Request: <reason>`.
 
-© 2026 Marbzy
+---
 
-You are free to use this plugin on your Minecraft server.
+## Support & Issues
+If you encounter a bug, have a feature suggestion, or want to request source access:
+- Open a **GitHub Issue**: [https://github.com/Marbzy-Dev/DangerXPfarm/issues](https://github.com/Marbzy-Dev/DangerXPfarm/issues)  
+- Please check existing issues first to avoid duplicates.
 
-**Redistribution, resale, or modification of this plugin without explicit permission is prohibited.**  
-The source code is **available on request** for developers.
+---
 
-Please contact the author via GitHub Issues if you want access to the source code.
+## Donate (optional)
+If you enjoy my work and want to support development:  
+[Donate via PayPal](https://paypal.me/Marbzy) 💖  
+
+Thank you for using DangerXPFarm! 🚀
