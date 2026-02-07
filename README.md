@@ -32,14 +32,6 @@ All settings are customizable in `config.yml`:
 Found a bug or have a suggestion?  
 Open an issue on GitHub.
 
-## 📜 License
-MIT License
-## 📂 Source Code
 
-The plugin's source code is available for developers **upon request**.  
-
-If you are a developer and would like to view, collaborate, or contribute, please **open a GitHub issue** or **contact me via Modrinth**. Requests are reviewed individually to ensure proper usage.
-
----
 Developed by **Marbzy**
 
